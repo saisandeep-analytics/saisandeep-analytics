@@ -28,7 +28,7 @@ During my tenure as Restaurant Manager, the focus was never just on daily operat
 
 ## 🍔 Domain Expertise
 
-Food & Beverage | Retail Operations | KPI Reporting | Labor Analytics | Cost Forecasting | Inventory Management
+Food & Beverage | Retail Operations | KPI Reporting | Labor Analytics | Cost Forecasting | Inventory Management | Delivery Channel Analytics 
 
 ---
 
