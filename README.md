@@ -12,7 +12,7 @@ Results-driven Data & Business Analyst with 4+ years of high-volume operations m
 
 During my tenure as Restaurant Manager, the focus was never just on daily operations — it was on owning the numbers. By tracking 10+ KPIs weekly using platforms like ClearView and Malpac:
 
- 
+- 📉 Reduced food & labour costs by **10–15%** through data-driven forecasting
 - 📈 Improved store audit scores from **88% to 98%** within a year
 - 💰 Tracked SkipTheDishes revenue metrics — **470 monthly orders, $7,902 revenue, 8.9/10 platform score**
 - 🗓️ Optimised workforce scheduling using Ameego — reduced labour cost by **8–12%**
