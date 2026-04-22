@@ -8,7 +8,7 @@
 
 ## 👨‍💼 About Me
 
-Results-driven Data & Business Analyst with 4+ years of high-volume operations management at Tim Hortons, Canada. I specialise in turning complex operational data into actionable insights that drive profitability and efficiency.
+Results-driven Data & Business Analyst with 4+ years of high-volume operations management at Tim Hortons, Barrie, Ontario,Canada. I specialise in turning complex operational data into actionable insights that drive profitability and efficiency.
 
 During my tenure as Restaurant Manager, the focus was never just on daily operations — it was on owning the numbers. By tracking 10+ KPIs weekly using platforms like ClearView and Malpac:
 
