@@ -42,6 +42,7 @@ Food & Beverage | Retail Operations | KPI Reporting | Labor Analytics | Cost For
 | [SQL Airline Database Analysis](https://github.com/saisandeep-analytics/sql-airline-analysis) | SQL | Complex queries using JOINs, GROUP BY & window functions to solve real-world flight operations problems |
 | [Python Data Analytics Capstone](https://github.com/saisandeep-analytics/python-data-analytics-capstone) | Python | End-to-end data analysis capstone project |
 | Excel Loan Data Analysis | Excel | Analysed loan application data using Pivot Tables for customer segmentation & risk profiling |
+| [Blue Tokai Coffee Shop Sales Analysis](https://github.com/saisandeep-analytics/coffee-shop-sales-analysis) | Power BI, DAX | Interactive dashboard analysing coffee shop sales, monthly performance, product categories, store contributions and weekday vs. weekend trends. |
 
 ---
 
